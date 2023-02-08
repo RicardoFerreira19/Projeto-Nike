@@ -1,0 +1,99 @@
+@media (max-width:900px) {
+
+
+    header{
+        background-color: #000000;
+    }
+
+
+    body {
+        flex-direction: column;
+        display: block;
+        width: 100%;
+    
+        height: 200%;
+    }
+
+    .div-android {
+        display: block;
+        width: 126%;
+         text-align: center;
+         background-color: #000000;
+
+    }
+   
+
+    .img-android {
+        display: inline-block;
+        width: 20%;
+        margin-left: 10%;
+        margin-right: 25%;
+
+    }
+    .logo {
+        display: none;
+    }
+    .menu{
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 29px;
+        
+    }
+    .menu a{
+        color: white;
+        font-weight: 600;
+        font-weight: 600;  
+        font-size: 10px;
+
+    }
+    .sect-one{
+         height: 9rem;
+    }
+
+  .colun-one{
+    display: none;
+    
+   }
+ 
+   .img-tenis{
+width: 20rem;
+margin-top: 50px;
+   }
+   
+ 
+ 
+   .slides-imgs{
+    margin-top: 50px;
+   border-radius: 1px;
+    width: 92%;
+    height: 29%;
+   }
+   .menu-slide{
+    width: 73%;
+    height: 10%;
+    font-size: 1rem;
+    margin-left: 38px;
+   
+   }
+   .menu-slide:hover {
+    color: #000000;
+    background-color: white ;
+}
+.slides-imgs-2{ 
+    border-radius: 1px;
+     width: 92%;
+     height: 29%;
+}
+.menu-slide-2{
+    width: 73%;
+    height: 10%;
+    font-size: 1rem;
+    margin-left: 38px;
+}
+   .menu-slide:hover {
+    color: #000000;
+    background-color: white ;
+}
+
+}
